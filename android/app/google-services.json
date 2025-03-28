@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910244426213",
+    "project_id": "chain-a503a",
+    "storage_bucket": "chain-a503a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910244426213:android:efe29ac2857e9b0ef77f0c",
+        "android_client_info": {
+          "package_name": "com.example.chains"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQaiiwkYsytcZbMRDVhENKCfYDnWvsoNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
